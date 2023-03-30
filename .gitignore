@@ -1,0 +1,11 @@
+/docs/.vitepress/cache
+/docs/.vitepress/dist
+*.log
+*.tgz
+.DS_Store
+.idea
+.temp
+.vite_opt_cache
+.vscode
+dist
+node_modules
