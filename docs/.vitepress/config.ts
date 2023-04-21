@@ -15,8 +15,14 @@ export default defineConfig({
       { text: 'Home', link: '/' },
     ],
     sidebar: [
+      {
+        text: 'C#',
+        items: [
+          { text: '社内SEにとってのC#とは', link: '/csharp/about' },
+          { text: 'Dapper', link: '/csharp/dapper' },
+        ]
+      },
     ],
-
     socialLinks: [
     ]
   }
