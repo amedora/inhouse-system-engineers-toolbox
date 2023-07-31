@@ -20,6 +20,7 @@ export default defineConfig({
         items: [
           { text: '社内SEにとってのC#とは', link: '/csharp/about' },
           { text: 'Dapper', link: '/csharp/dapper' },
+          { text: 'UI Automation', link: '/csharp/winauto' }
         ]
       },
     ],
