@@ -23,6 +23,12 @@ export default defineConfig({
           { text: 'UI Automation', link: '/csharp/winauto' }
         ]
       },
+      {
+        text: '設計',
+        items: [
+          { text: 'RDRA', link: '/design/rdra' },
+        ]
+      }
     ],
     socialLinks: [
     ]
