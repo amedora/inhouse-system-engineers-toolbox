@@ -24,6 +24,12 @@ export default defineConfig({
         ]
       },
       {
+        text: 'Vue',
+        items: [
+          { text: 'Tips', link: '/vue/tips' }
+        ]
+      },
+      {
         text: '設計',
         items: [
           { text: 'RDRA', link: '/design/rdra' },
