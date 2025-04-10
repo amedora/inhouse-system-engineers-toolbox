@@ -30,6 +30,12 @@ export default defineConfig({
         ]
       },
       {
+        text: 'DB',
+        items: [
+          { text: 'SQL', link: '/db/sql'}
+        ]
+      },
+      {
         text: '設計',
         items: [
           { text: 'RDRA', link: '/design/rdra' },
